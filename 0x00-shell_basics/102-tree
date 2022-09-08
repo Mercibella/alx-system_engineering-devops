@@ -1,2 +1,2 @@
-#!/bin/bash  
-mkdr {welcome/,welcome/to/,welcome/to/school}
+#!/biin/bash
+mkdir -p welcome/to/school
